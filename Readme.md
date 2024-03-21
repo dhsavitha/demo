@@ -24,13 +24,6 @@ This project is built using maven tool for its simplicity of use w.r.t downloadi
 - Validates that home page is displayed
 - Exits
 
-## Test run results - testng html report
-![picture](test-output/test-result/testResult.png)
-
-## test flow screenshots
-![picture](test-output/MaterialLoginScreenshots/loginPage.png)
-![picture](test-output/MaterialLoginScreenshots/LoginPagewithKeypad.png)
-![picture](test-output/MaterialLoginScreenshots/LoginSuccessPage.png)
 
 
 
